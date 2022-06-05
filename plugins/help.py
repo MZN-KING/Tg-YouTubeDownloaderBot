@@ -4,7 +4,7 @@ import config
 @Client.on_message(Filters.command(["help"]))
 async def start(client, message):
 	alpha2 = InlineKeyboardMarkup([
-		[InlineKeyboardButton("ʀᴇᴘᴏʀᴛ ʙᴜɢs 👾", url="https://t.me/AlphaX_SUPPORT")]
+		[InlineKeyboardButton("Script Bot 👾", url="https://github.com/MZN-KING/Tg-YouTubeDownloaderBot/")]
                 ])
 
 	help_image = config.HPIC
