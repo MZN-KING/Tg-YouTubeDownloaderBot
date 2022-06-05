@@ -5,7 +5,7 @@
 <p align="center"><b>
     Fast and Free High Quality YouTube Downloader Bot for Telegram.
     <br><br>
-        <a href="https://t.me/mznbots">🏆 Telegram Channel 🔰</a>
+        <a href="http://t.me/youtubednrbot/">🏆 Try Telegram Bot 🔰</a>
     <br>
 </p>
 <p align="center"> 
