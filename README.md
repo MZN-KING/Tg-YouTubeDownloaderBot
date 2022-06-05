@@ -5,13 +5,13 @@
 <p align="center"><b>
     Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
     <br><br>
-        <a href="https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE">🏆 Alpha-X Wtzp Sup Group 🔰</a>
+        <a href="https://t.me/mznbots">🏆 Telegram Channel 🔰</a>
     <br>
 </p>
 <p align="center"> 
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG/fork">
+  <a href="https://github.com/MZN-KING/Tg-YouTubeDownloaderBot/fork">
     <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Youtube-Downloader-For-TG?label=Fork&style=social">
     
   </a>
